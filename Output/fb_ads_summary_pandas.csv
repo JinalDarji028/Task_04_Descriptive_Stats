@@ -1,0 +1,42 @@
+Column,Count,Type,Unique,Top_1_Value,Top_1_Count,Top_2_Value,Top_2_Count,Top_3_Value,Top_3_Count,Mean,Min,Max,StdDev
+page_id,246745,Categorical,4475.0,4d66f5853f0365dba032a87704a634f023d15babde973bb7a284ed8cd2707b2d,55503.0,e3342051b60393770363ffc02946a0f76bc3e4155190d1f05fb0277b34bf6480,23988.0,4ade404186269ec62d2dd7d9e0ed5f93a5f32c057516879d627ea9fbd628ef9b,14822.0,,,,
+ad_id,246745,Categorical,246745.0,0ddb025b8544e2d58e6977ad417e742a52522b3e1fc1c9d9b61c57148f8d72fc,1.0,329368f2aa4e55f382777eeb9076b6dc15d27129adc7546a6c2366c1294820d9,1.0,2c055606917671911ca27cd4a152aea8294c227696bbfc8c7110c979369e7987,1.0,,,,
+ad_creation_time,246745,Categorical,547.0,2024-10-27,8619.0,2024-10-28,7356.0,2024-10-26,6414.0,,,,
+bylines,245736,Categorical,3790.0,HARRIS FOR PRESIDENT,49788.0,HARRIS VICTORY FUND,32612.0,BIDEN VICTORY FUND,15539.0,,,,
+currency,246745,Categorical,18.0,USD,246599.0,INR,63.0,GBP,17.0,,,,
+delivery_by_region,246745,Categorical,141122.0,{},30989.0,"{'Georgia': {'spend': 49, 'impressions': 499}}",2307.0,"{'Arizona': {'spend': 49, 'impressions': 499}}",2020.0,,,,
+demographic_distribution,246745,Categorical,215622.0,{},30989.0,"{'female_65+': {'spend': 49, 'impressions': 499}}",44.0,"{'male_65+': {'spend': 49, 'impressions': 499}}",24.0,,,,
+estimated_audience_size,246745,Numeric,,,,,,,,556462.86,0.0,1000001.0,409864.76
+estimated_impressions,246745,Numeric,,,,,,,,45601.53,499.0,1000000.0,136790.77
+estimated_spend,246745,Numeric,,,,,,,,1061.29,49.0,474999.0,4992.56
+publisher_platforms,246745,Categorical,9.0,"['facebook', 'instagram']",214434.0,['facebook'],23259.0,['instagram'],8395.0,,,,
+illuminating_scored_message,246745,Categorical,26338.0,e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855,5972.0,82459467ad44f717f2089911f5210cce1ff025dc0cee03bdb2e60da827edb282,1887.0,3b1d236346df93fd259a23d523f6deeed9b9939158b6f34b11854ea0f97ef35d,1352.0,,,,
+illuminating_mentions,246745,Categorical,278.0,[],73205.0,['Donald Trump'],53182.0,['Kamala Harris'],31019.0,,,,
+scam_illuminating,246745,Numeric,,,,,,,,0.07,0.0,1.0,0.26
+election_integrity_Truth_illuminating,246745,Numeric,,,,,,,,0.05,0.0,1.0,0.22
+advocacy_msg_type_illuminating,246745,Numeric,,,,,,,,0.55,0.0,1.0,0.5
+issue_msg_type_illuminating,246745,Numeric,,,,,,,,0.38,0.0,1.0,0.49
+attack_msg_type_illuminating,246745,Numeric,,,,,,,,0.27,0.0,1.0,0.44
+image_msg_type_illuminating,246745,Numeric,,,,,,,,0.22,0.0,1.0,0.42
+cta_msg_type_illuminating,246745,Numeric,,,,,,,,0.57,0.0,1.0,0.49
+engagement_cta_subtype_illuminating,246745,Numeric,,,,,,,,0.12,0.0,1.0,0.33
+fundraising_cta_subtype_illuminating,246745,Numeric,,,,,,,,0.23,0.0,1.0,0.42
+voting_cta_subtype_illuminating,246745,Numeric,,,,,,,,0.14,0.0,1.0,0.35
+covid_topic_illuminating,246745,Numeric,,,,,,,,0.02,0.0,1.0,0.16
+economy_topic_illuminating,246745,Numeric,,,,,,,,0.12,0.0,1.0,0.33
+education_topic_illuminating,246745,Numeric,,,,,,,,0.01,0.0,1.0,0.12
+environment_topic_illuminating,246745,Numeric,,,,,,,,0.02,0.0,1.0,0.14
+foreign_policy_topic_illuminating,246745,Numeric,,,,,,,,0.01,0.0,1.0,0.07
+governance_topic_illuminating,246745,Numeric,,,,,,,,0.03,0.0,1.0,0.16
+health_topic_illuminating,246745,Numeric,,,,,,,,0.11,0.0,1.0,0.31
+immigration_topic_illuminating,246745,Numeric,,,,,,,,0.03,0.0,1.0,0.18
+lgbtq_issues_topic_illuminating,246745,Numeric,,,,,,,,0.0,0.0,1.0,0.06
+military_topic_illuminating,246745,Numeric,,,,,,,,0.0,0.0,1.0,0.05
+race_and_ethnicity_topic_illuminating,246745,Numeric,,,,,,,,0.01,0.0,1.0,0.11
+safety_topic_illuminating,246745,Numeric,,,,,,,,0.03,0.0,1.0,0.18
+social_and_cultural_topic_illuminating,246745,Numeric,,,,,,,,0.11,0.0,1.0,0.31
+technology_and_privacy_topic_illuminating,246745,Numeric,,,,,,,,0.0,0.0,1.0,0.03
+womens_issue_topic_illuminating,246745,Numeric,,,,,,,,0.08,0.0,1.0,0.27
+incivility_illuminating,246745,Numeric,,,,,,,,0.19,0.0,1.0,0.39
+freefair_illuminating,246745,Numeric,,,,,,,,0.01,0.0,1.0,0.08
+fraud_illuminating,246745,Numeric,,,,,,,,0.0,0.0,1.0,0.05

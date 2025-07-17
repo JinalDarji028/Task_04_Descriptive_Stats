@@ -1,0 +1,57 @@
+Column,Count,Type,Unique,Top_1_Value,Top_1_Count,Top_2_Value,Top_2_Count,Top_3_Value,Top_3_Count,Mean,Min,Max,StdDev
+Facebook_Id,19009,Categorical,21,32fc18da91029ff09bf74fe9887eace6b5d2145809d583f696e344530508b064,9013,bfe51c6ac2cab17ba5c85883e76f61398031ed57e4cf62d19fd483548ebb904b,1431,ac24f31c4d4b3d5555065fa9558bdca4ab4b5e1379922875ae9e6e32f1d46d25,1231,,,,
+post_id,19009,Categorical,19009,c56f20c00765a31c2b136f67de5fa508c1fbfda6e926857c4e2fb2f84d33745d,1,f2c4673f4cc5c19c1f81687dd55a9da6f032cf4741e118ee6080746c88ab80a1,1,564d31ba7afa2ea0ceaa9252ae117d9277cce5a92928db355ae8bf81e62c7bb1,1,,,,
+Page Category,16537,Categorical,6,PERSON,9453,ACTOR,3304,POLITICIAN,2595,,,,
+Page Admin Top Country,16280,Categorical,1,US,16280,,,,,,,,
+Post Created,19009,Categorical,18951,2024-10-31T12:17:11.000Z,2,2024-10-31T23:50:33.000Z,2,2024-10-30T19:39:42.000Z,2,,,,
+Post Created Date,19009,Categorical,425,2024-10-31,103,2024-01-10,102,2024-01-15,96,,,,
+Post Created Time,19009,Categorical,16102,19:42:00,7,17:30:01,7,12:00:16,6,,,,
+Type,16544,Categorical,9,Link,7404,Photo,3820,Native Video,2931,,,,
+Total Interactions,19009,Categorical,5665,23,115,15,115,26,113,,,,
+Likes,19009,Numeric,,,,,,,,2377.7,0.0,351979.0,11253.47
+Comments,19009,Numeric,,,,,,,,901.58,0.0,93872.0,3681.98
+Shares,19009,Numeric,,,,,,,,320.54,0.0,76150.0,1722.16
+Love,19009,Numeric,,,,,,,,413.88,0.0,244482.0,3730.94
+Wow,19009,Numeric,,,,,,,,5.87,0.0,4345.0,52.95
+Haha,19009,Numeric,,,,,,,,105.72,0.0,99276.0,942.03
+Sad,19009,Numeric,,,,,,,,10.17,0.0,56111.0,418.33
+Angry,19009,Numeric,,,,,,,,20.06,0.0,11814.0,156.02
+Care,19009,Numeric,,,,,,,,34.93,0.0,85236.0,790.1
+Video Share Status,3271,Categorical,3,owned,3100,share,99,crosspost,72,,,,
+Is Video Owner?,16544,Categorical,3,-,13280,Yes,3181,No,83,,,,
+Post Views,16544,Numeric,,,,,,,,6485.06,0.0,4276477.0,90392.96
+Total Views,16544,Numeric,,,,,,,,7461.85,0.0,4462155.0,95976.28
+Total Views For All Crossposts,16544,Numeric,,,,,,,,3555.94,0.0,4499458.0,88094.05
+Video Length,3271,Categorical,774,00:00:30,83,00:01:00,50,00:00:59,37,,,,
+Sponsor Id,0,Categorical,0,,,,,,,,,,
+Sponsor Name,0,Categorical,0,,,,,,,,,,
+Sponsor Category,0,Categorical,0,,,,,,,,,,
+Overperforming Score,16544,Numeric,,,,,,,,-2.74,-198.75,246.78,7.81
+illuminating_scored_messageelection_integrity_Truth_illuminating,0,Categorical,0,,,,,,,,,,
+advocacy_msg_type_illuminating,19009,Numeric,,,,,,,,0.55,0.0,1.0,0.5
+issue_msg_type_illuminating,19009,Numeric,,,,,,,,0.46,0.0,1.0,0.5
+attack_msg_type_illuminating,19009,Numeric,,,,,,,,0.22,0.0,1.0,0.41
+image_msg_type_illuminating,19009,Numeric,,,,,,,,0.15,0.0,1.0,0.36
+cta_msg_type_illuminating,19009,Numeric,,,,,,,,0.13,0.0,1.0,0.34
+engagement_cta_subtype_illuminating,19009,Numeric,,,,,,,,0.09,0.0,1.0,0.29
+fundraising_cta_subtype_illuminating,19009,Numeric,,,,,,,,0.02,0.0,1.0,0.13
+voting_cta_subtype_illuminating,19009,Numeric,,,,,,,,0.02,0.0,1.0,0.15
+covid_topic_illuminating,19009,Numeric,,,,,,,,0.05,0.0,1.0,0.22
+economy_topic_illuminating,19009,Numeric,,,,,,,,0.09,0.0,1.0,0.29
+education_topic_illuminating,19009,Numeric,,,,,,,,0.01,0.0,1.0,0.12
+environment_topic_illuminating,19009,Numeric,,,,,,,,0.02,0.0,1.0,0.15
+foreign_policy_topic_illuminating,19009,Numeric,,,,,,,,0.04,0.0,1.0,0.19
+governance_topic_illuminating,19009,Numeric,,,,,,,,0.03,0.0,1.0,0.17
+health_topic_illuminating,19009,Numeric,,,,,,,,0.05,0.0,1.0,0.22
+immigration_topic_illuminating,19009,Numeric,,,,,,,,0.04,0.0,1.0,0.2
+lgbtq_issues_topic_illuminating,19009,Numeric,,,,,,,,0.0,0.0,1.0,0.06
+military_topic_illuminating,19009,Numeric,,,,,,,,0.01,0.0,1.0,0.07
+race_and_ethnicity_topic_illuminating,19009,Numeric,,,,,,,,0.02,0.0,1.0,0.15
+safety_topic_illuminating,19009,Numeric,,,,,,,,0.03,0.0,1.0,0.18
+social_and_cultural_topic_illuminating,19009,Numeric,,,,,,,,0.06,0.0,1.0,0.24
+technology_and_privacy_topic_illuminating,19009,Numeric,,,,,,,,0.0,0.0,1.0,0.05
+womens_issue_topic_illuminating,19009,Numeric,,,,,,,,0.03,0.0,1.0,0.16
+incivility_illuminating,19009,Numeric,,,,,,,,0.13,0.0,1.0,0.33
+scam_illuminating,18060,Numeric,,,,,,,,0.02,0.0,1.0,0.14
+freefair_illuminating,19009,Numeric,,,,,,,,0.0,0.0,1.0,0.05
+fraud_illuminating,19009,Numeric,,,,,,,,0.01,0.0,1.0,0.09
