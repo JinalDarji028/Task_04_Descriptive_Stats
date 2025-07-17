@@ -1,0 +1,12 @@
+# Ignore raw dataset files
+data/
+*.csv
+*.zip
+*.json
+*.parquet
+
+
+Output/
+.venv/
+__pycache__/
+*.pyc
