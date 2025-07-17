@@ -146,9 +146,9 @@ Each script outputs a summary CSV to the `output/` folder.
 
   * Yes, ChatGPT generally defaults to Pandas unless asked specifically. It sees Pandas as the industry standard.
 
-* **Do you agree with that?**
+* **Do you agree with AI's default recommendation of using one engine when asked to produce descriptive statistics??**
 
-  * For ease of use, yes. But for speed and memory efficiency, Polars is the better default now.
+  * Yes, I agree that Pandas is often recommended by default because of its wide adoption, rich documentation, and intuitive syntax. However, based on this project, I would now recommend Polars as the new default when working with medium to large datasets. Polars is significantly faster, uses less memory, and scales better. For beginners, Pandas is still a great starting point, but for performance, Polars clearly leads.
 
 ---
 
